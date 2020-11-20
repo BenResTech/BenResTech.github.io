@@ -48,7 +48,7 @@ google_site_verification: DR5lhi_obn34wvlrAeGjjmok2vEv_9OPNRhAUDMMPSA # change t
 baseurl: ''
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: Europe/London
 
 google_analytics:
   id: ''          # Fill with your Google Analytics ID
