@@ -1,0 +1,10 @@
+# hidden files
+.*
+!.github
+!.gitignore
+
+# jekyll debug
+_site
+
+# Jeykll Gemfile.lock
+Gemfile.lock
